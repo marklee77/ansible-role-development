@@ -4,7 +4,3 @@
 - include: libs.yml
 - include: python.yml
 - include: java.yml
-- include: virtualbox.yml
-- include: vagrant.yml
-- include: docker.yml
-- include: heroku.yml
